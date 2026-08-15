@@ -205,7 +205,7 @@ http://localhost:5500
 ## 🌐 Live Demo
 
 🎮 **Play the Game:**
-`YOUR-LIVE-DEMO-LINK-HERE`
+[`SNAKE-LADDER`](https://snakes-ladder-ten.vercel.app/)
 
 Replace the placeholder above with your deployed game URL.
 
