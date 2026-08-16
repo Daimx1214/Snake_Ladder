@@ -133,8 +133,6 @@ The board view includes controls for interacting with the 3D perspective while k
 * **HTML5**
 * **CSS3**
 * **JavaScript**
-* **SVG**
-* **Canvas / Web Graphics**
 * **CSS Animations**
 * **Responsive Web Design**
 * **Qwen 3.8-Max 🤖**
