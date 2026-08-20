@@ -1,6 +1,6 @@
 # 🐍 Snake & Ladder — Temple of a Thousand Steps 🪜
 
-> 🎮 A premium, interactive Snake & Ladder experience with animated visuals, multiple game modes, AI opponents, local multiplayer, difficulty levels, and an immersive 3D board view.
+> 🎮 A premium, interactive Snake & Ladder experience with animated visuals, multiple game modes, AI opponents, local multiplayer, difficulty levels, and an immersive 3D board view. 
 
 ## ✨ Overview
 
